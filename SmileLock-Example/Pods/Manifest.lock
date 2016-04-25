@@ -6,9 +6,9 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   SmileLock:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
-  SmileLock: 00bc09c87b9f97e8bc6851ced22b4954bc5cdae6
+  SmileLock: 027db5465ec9caf578e12d9834013f5dba01c9e5
 
 COCOAPODS: 0.39.0
